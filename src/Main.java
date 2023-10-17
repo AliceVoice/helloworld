@@ -1,6 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Hello world!");
+
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
@@ -59,9 +61,6 @@ public class Main {
         sum = sum + 94;
         hours = sum * 8;
         System.out.println("Если в компании работает " + sum + " человек, то всего " + hours + " часов работы может быть поделено между сотрудниками" );
-
-
-        System.out.println("Hello world!");
     }
 
 
